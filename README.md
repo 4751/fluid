@@ -1,6 +1,6 @@
 # WebGL Fluid Simulation
 
-My fork of [PavelDoGreat]'s(https://github.com/PavelDoGreat) [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation), with custom modifications.
+My fork of [PavelDoGreat] 's(https://github.com/PavelDoGreat) [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation), with custom modifications.
 
 [Play here](https://4751.github.io/fluid/)
 
