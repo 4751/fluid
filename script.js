@@ -243,7 +243,7 @@ function startGUI() {
     .add(
       {
         fun: () => {
-          window.open("https://github.com/Cveinnt/fluid");
+          window.open("https://github.com/4751/fluid");
         },
       },
       "fun"
